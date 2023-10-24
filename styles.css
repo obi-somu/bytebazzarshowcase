@@ -58,7 +58,7 @@ body {
   height: 30px; /* Adjust the height of the social icons as needed */
 }
 .product-text {
-  text-align: justify;
+  text-align: left;
 }
 .product img {
   max-width: 50%; /* Prevent images from overflowing */
